@@ -1,0 +1,20 @@
+body {
+    background-color: Chocolate;
+    text-align: center;
+    border: 7px solid;
+  }
+  .container img {
+      max-width: 201px;
+      max-height:250px;
+  }
+  .container {
+      clear: both;
+      margin-top: 20px;
+  }
+  img {
+      vertical-align: top
+  }
+  img {
+      max-width: 100%;
+      max-height: 100%;
+  }
